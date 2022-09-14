@@ -3,7 +3,7 @@ import { parse } from 'query-string';
 
 const host = window.SERVER_URL
 	|| parse(window.location.search).serverUrl
-	|| (process.env.NODE_ENV === 'development' ? 'https://projetocaed.agenciabossanova.com' : null);
+	|| (process.env.NODE_ENV === 'development' ? 'https://caed-rocketchat.agenciabossanova-pocs.com.br' : null);
 export const useSsl = Boolean((Array.isArray(host) ? host[0] : host)?.match(/^https:/));
 
 export const Livechat = new LivechatClient({ host, protocol: 'ddp', useSsl });

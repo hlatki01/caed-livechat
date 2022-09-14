@@ -240,10 +240,10 @@ export class MessageList extends MemoizedComponent {
                   class="avatar__zfL8P avatar--nobg__nSXgN message-avatars__avatar__KvWCV"
                 >
                   <img
-                    src="https://projetocaed.agenciabossanova.com/avatar/atendendecaed"
+                    src="https://livechat.agenciabossanova.com/tecnico-1.png"
                     alt="atendendecaed"
                     class="avatar__image__oHtck"
-                  />
+                  />{" "}
                 </div>
               </div>
               <div class="message-content__0O12f">
