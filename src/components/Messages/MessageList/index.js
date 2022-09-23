@@ -251,8 +251,7 @@ export class MessageList extends MemoizedComponent {
                   <div class="">
                     <div class="message-text__WwYco">
                       <p>
-                        Bem vindo(a) ao suporte CAEd, digite no campo abaixo
-                        para ter acesso ao atendimento. Obrigado(a).
+                      Bem-vindo(a) ao suporte CAEd. Digite algo no campo abaixo para iniciar o atendimento. Obrigado(a).
                       </p>
                     </div>
                   </div>
